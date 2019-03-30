@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="TicTacToeDomain.fs" />
+    <Compile Include="TicTacToeImplementation.fs" />
+    <Compile Include="ConsoleUi.fs" />
+    <Compile Include="Logger.fs" />
+    <Compile Include="ConsoleApplication.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

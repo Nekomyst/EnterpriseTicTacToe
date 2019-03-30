@@ -1,0 +1,10 @@
+/home/nikita/EnterpriseTicTacToe/ETTT/bin/Debug/netcoreapp2.1/ETTT.deps.json
+/home/nikita/EnterpriseTicTacToe/ETTT/bin/Debug/netcoreapp2.1/ETTT.runtimeconfig.json
+/home/nikita/EnterpriseTicTacToe/ETTT/bin/Debug/netcoreapp2.1/ETTT.runtimeconfig.dev.json
+/home/nikita/EnterpriseTicTacToe/ETTT/bin/Debug/netcoreapp2.1/ETTT.dll
+/home/nikita/EnterpriseTicTacToe/ETTT/bin/Debug/netcoreapp2.1/ETTT.pdb
+/home/nikita/EnterpriseTicTacToe/ETTT/obj/Debug/netcoreapp2.1/ETTT.fsprojAssemblyReference.cache
+/home/nikita/EnterpriseTicTacToe/ETTT/obj/Debug/netcoreapp2.1/ETTT.AssemblyInfoInputs.cache
+/home/nikita/EnterpriseTicTacToe/ETTT/obj/Debug/netcoreapp2.1/ETTT.AssemblyInfo.fs
+/home/nikita/EnterpriseTicTacToe/ETTT/obj/Debug/netcoreapp2.1/ETTT.dll
+/home/nikita/EnterpriseTicTacToe/ETTT/obj/Debug/netcoreapp2.1/ETTT.pdb
