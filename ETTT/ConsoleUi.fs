@@ -33,7 +33,7 @@ module ConsoleUi =
     /// Given that the user has not quit, attempt to parse
     /// the input text into a index and then find the move
     /// corresponding to that index
-    let processMoveIndex inputStr gameState availableMoves makeMove processInputAgain = 
+    let processMoveIndex (inputStr: string) gameState availableMoves makeMove processInputAgain =
         match Int32.TryParse inputStr with
         // TryParse will output a tuple (parsed?,int)
         | true,inputIndex ->
